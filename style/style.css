@@ -14,7 +14,7 @@ h1 {
 	width: 200px;
 	height: 200px;
   background: red;
-  right: 400px;
+  left: 400px;
   position:absolute;
 }
 #post3 {
