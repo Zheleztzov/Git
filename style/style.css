@@ -4,8 +4,30 @@ body {
 h1 {
   font-size: 20px;
 }
-#square {
-	width: 100px;
-	height: 100px;
-	background: red;
+#post1 {
+	width: 200px;
+	height: 200px;
+  background: red;
+  position:absolute;
+}
+#post2 {
+	width: 200px;
+	height: 200px;
+  background: red;
+  right: 400px;
+  position:absolute;
+}
+#post3 {
+  width: 200px;
+	height: 200px;
+  background: red;
+  left: 800px;
+  position:absolute;
+}
+#post4 {
+  width: 800;
+  height: 200;
+  background: red;
+  top: 700;
+  position:absolute;
 }
