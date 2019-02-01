@@ -4,30 +4,32 @@ body {
 h1 {
   font-size: 20px;
 }
-#post1 {
-	width: 200px;
-	height: 200px;
-  background: red;
-  position:absolute;
-}
-#post2 {
-	width: 200px;
-	height: 200px;
-  background: red;
-  left: 400px;
-  position:absolute;
-}
-#post3 {
+
+.element {
   width: 200px;
-	height: 200px;
+  height: 200px;
   background: red;
-  left: 800px;
-  position:absolute;
+  float: left;
+  
 }
-#post4 {
-  width: 800;
-  height: 200;
+.element1 {
+  width: 200px;
+  height: 200px;
   background: red;
-  top: 700;
-  position:absolute;
+  float: left;
+  margin-left: 20px;
+}
+.element2 {
+  width: 200px;
+  height: 200px;
+  background: red;
+  float: left;
+  margin-left: 20px;
+}
+.element3 {
+  width: 400px;
+  height: 200px;
+  background: red;
+  float: left;
+  margin-left: 20px;
 }
