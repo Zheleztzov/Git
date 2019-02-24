@@ -17,6 +17,6 @@ div {
 .element3 {
   width: 640px;
   height: 200px;
-  top: 270px;
-  position: absolute;
+  clear: both;
+  margin-top: 20px;
 }
