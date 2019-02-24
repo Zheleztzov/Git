@@ -1,36 +1,22 @@
 body {
   background-color: deepskyblue;
+  
 }
 h1 {
   font-size: 20px;
+  margin-left: 20px;
 }
-
-.element {
+div {
   width: 200px;
   height: 200px;
   background: red;
   float: left;
+  margin-left: 20px;
   
-}
-.element1 {
-  width: 200px;
-  height: 200px;
-  background: red;
-  float: left;
-  margin-left: 20px;
-}
-.element2 {
-  width: 200px;
-  height: 200px;
-  background: red;
-  float: left;
-  margin-left: 20px;
 }
 .element3 {
   width: 640px;
   height: 200px;
-  background: red;
-  float:top;
-  margin-top: 220px;
-  margin-left: 0px;
+  top: 270px;
+  position: absolute;
 }
